@@ -1,24 +1,47 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>
+Hi, I'm Mohammadreza, an aspiring networking professional and cybersecurity enthusiast. Currently, I'm building my skills in network infrastructure, network security, and ethical hacking. As a junior network engineer, I’m gaining hands-on experience in setting up and securing networks, working with Cisco devices, and exploring tools like Wireshark and Metasploit.<br><br>I'm focused on learning the foundations of network configuration, firewalls, NAT/PAT, and access control while continuing to grow my knowledge in network security protocols. My goal is to advance as a network security engineer and make meaningful contributions in the field of cybersecurity.<br><br>When I'm not learning new concepts, I enjoy exploring emerging technologies and staying up to date with the latest trends in networking and security.<br><br>Feel free to reach out if you'd like to collaborate, share knowledge, or discuss tech!
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezahydari021@gmail.com) 
+
+## 🛠️ Technologies & Tools
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+### Networking & Security:
+![Cisco](https://img.shields.io/badge/-Cisco-blue?style=flat&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-red?style=flat&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=kali&logoColor=white)
+
+### Programming & Development:
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-darkgreen?style=flat&logo=express&logoColor=white)
+
+### System & OS:
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+### Security Tools:
+![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-lightgreen?style=flat&logo=nessus&logoColor=black)
+
+### Other Technologies:
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haydarih833&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=haydarih833&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haydarih833&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=haydarih833&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=haydarih833&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=haydarih833&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haydarih833&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=haydarih833&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=haydarih833&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haydarih833&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=haydarih833&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
