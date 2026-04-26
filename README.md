@@ -20,7 +20,7 @@ Hi, I'm Mohammadreza, an aspiring networking professional and cybersecurity enth
 ### Programming & Development:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-darkgreen?style=flat&logo=express&logoColor=white)
+
 
 ### System & OS:
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)
